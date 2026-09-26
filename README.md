@@ -24,13 +24,7 @@ persistent local tracking, and appearance-based Re-ID working together.
 > purposes. Rights in any underlying third-party footage remain with their
 > respective owners.
 
-[![Watch the ANUBIS X annotated demonstration](assets/social-preview.jpg)](demo/anubis-x-threat-tracking-reid-demo.mp4)
-
-<video controls width="100%">
-  <source src="https://media.githubusercontent.com/media/Mohamedtarek00212/ANUBIS-X-Showcase/main/demo/anubis-x-threat-tracking-reid-demo.mp4" type="video/mp4">
-</video>
-
-[▶ Watch or download the full annotated demonstration](demo/anubis-x-threat-tracking-reid-demo.mp4)
+### [▶ Watch the full annotated demonstration](demo/anubis-x-threat-tracking-reid-demo.mp4)
 
 ## System workflow
 
