@@ -19,11 +19,6 @@ only verified incidents to a mobile response application.
 This annotated evaluation output shows threat detection, person association,
 persistent local tracking, and appearance-based Re-ID working together.
 
-> **Content note:** the demonstration contains incident footage and a visible
-> firearm. It is included for non-commercial portfolio and technical-evaluation
-> purposes. Rights in any underlying third-party footage remain with their
-> respective owners.
-
 ### [▶ Watch the full annotated demonstration](demo/anubis-x-threat-tracking-reid-demo.mp4)
 
 ## System workflow
