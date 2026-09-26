@@ -1,0 +1,65 @@
+{
+  "status": "RECONSTRUCTED_FROM_SAVED_TEST_PREDICTIONS",
+  "split": "test",
+  "test_images": 877,
+  "predictions_source": "<RUNS_ROOT>/weapon_detection/yolo11s_sohas_stratified_adamw_mosaic05_seed42/test_evaluations/yolo11s_sohas_stratified_test_gpu/predictions.json",
+  "dataset": "<DATASET_ROOT>/dataset.yaml",
+  "metric_method": "Ultralytics-compatible PR interpolation and AP integration from saved predictions",
+  "best_f1_confidence": 0.45545545545545546,
+  "overall": {
+    "precision": 0.8629678522757982,
+    "recall": 0.897517958076883,
+    "mAP50": 0.9387376026395516,
+    "mAP50-95": 0.7921206507177287
+  },
+  "per_class": {
+    "pistol": {
+      "ground_truth_objects": 226,
+      "predictions": 566,
+      "AP50": 0.9356742071506472,
+      "AP50-95": 0.7833903094255169,
+      "precision": 0.8613704082303116,
+      "recall": 0.879785645641103
+    },
+    "smartphone": {
+      "ground_truth_objects": 107,
+      "predictions": 327,
+      "AP50": 0.9416534857170287,
+      "AP50-95": 0.8270906327085585,
+      "precision": 0.8590800153156106,
+      "recall": 0.9158878504672897
+    },
+    "knife": {
+      "ground_truth_objects": 341,
+      "predictions": 802,
+      "AP50": 0.9645058911505455,
+      "AP50-95": 0.6799150975318649,
+      "precision": 0.9228869713952167,
+      "recall": 0.9178885630498533
+    },
+    "monedero": {
+      "ground_truth_objects": 90,
+      "predictions": 282,
+      "AP50": 0.9441331783576378,
+      "AP50-95": 0.842936425544678,
+      "precision": 0.8270461892366225,
+      "recall": 0.9032693646887001
+    },
+    "billete": {
+      "ground_truth_objects": 71,
+      "predictions": 188,
+      "AP50": 0.9143073616671078,
+      "AP50-95": 0.7740723324637038,
+      "precision": 0.8565194420833473,
+      "recall": 0.8873239436619719
+    },
+    "tarjeta": {
+      "ground_truth_objects": 42,
+      "predictions": 151,
+      "AP50": 0.9321514917943425,
+      "AP50-95": 0.8453191066320507,
+      "precision": 0.8509040873936806,
+      "recall": 0.8809523809523809
+    }
+  }
+}
