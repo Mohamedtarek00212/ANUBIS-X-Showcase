@@ -14,6 +14,22 @@ only verified incidents to a mobile response application.
 > code, trained model files, private datasets, credentials, and raw surveillance
 > media are intentionally not distributed.
 
+## End-to-end demonstration
+
+This annotated evaluation output shows threat detection, person association,
+persistent local tracking, and appearance-based Re-ID working together.
+
+> **Content note:** the demonstration contains incident footage and a visible
+> firearm. It is included for non-commercial portfolio and technical-evaluation
+> purposes. Rights in any underlying third-party footage remain with their
+> respective owners.
+
+<video controls width="100%">
+  <source src="https://media.githubusercontent.com/media/Mohamedtarek00212/ANUBIS-X-Showcase/main/demo/anubis-x-threat-tracking-reid-demo.mp4" type="video/mp4">
+</video>
+
+[▶ Watch or download the full annotated demonstration](demo/anubis-x-threat-tracking-reid-demo.mp4)
+
 ## System workflow
 
 ```mermaid

@@ -13,3 +13,8 @@ holders.
 Third-party names, trademarks, research references, software, and model names
 remain the property of their respective owners. No third-party source code,
 model weights, or private datasets are distributed in this showcase.
+
+The annotated demonstration is included only to document non-commercial
+academic evaluation of the system. No ownership is claimed over any underlying
+third-party incident footage, and all such rights remain with their respective
+owners.
